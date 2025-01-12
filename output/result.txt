@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-12 06:33:55,url
+2025-01-12 18:38:35,url
 📺央视频道,#genre#
 CCTV-1,http://110.80.17.38:9901/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,http://60.208.61.2:352/tsfile/live/0001_1.m3u8$订阅源
@@ -646,6 +646,7 @@ CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://120.84.96.42:808/hls/81/index.m3u8$订阅源
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源
+凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
@@ -755,10 +756,10 @@ CCTV-5+,http://122.9.151.210:887/rtp/238.255.2.185:5999$组播源
 山东体育,http://119.163.199.98:9901/tsfile/live/1003_1.m3u8$订阅源
 山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002$组播源
 山东体育,http://139.129.231.228:3529/rtp/239.21.1.141:5002$组播源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
 睛彩篮球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=HD-8000k-1080P-miguaoyun1$订阅源
 风云足球,http://183.11.239.36:808/hls/133/index.m3u8$订阅源
 风云足球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_FENGSHANGZQ-CQ$订阅源
@@ -813,13 +814,11 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 七龙珠,http://live.iill.top/huya.php?id=25650806$订阅源
 火影忍者,http://live.iill.top/douyu.php?id=1997723$订阅源
 火影忍者,https://live.iill.top/douyu/1997723$订阅源
-海绵宝宝,http://1.94.31.214:35455/huya/11352919$订阅源
 中华小当家,https://live.iill.top/huya/11342413$订阅源
 中华小当家,http://live.iill.top/huya.php?id=11342413$订阅源
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn$订阅源
 猫和老鼠,https://live.iill.top/huya/11352879$订阅源
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$订阅源
-蜡笔小新,http://1.94.31.214:35455/huya/11352970$订阅源
 漫画解说,http://live.nctv.top/6688/yy.php?id=1382735568$订阅源
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy$订阅源|1920x1080
