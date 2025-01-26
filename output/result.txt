@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-01-26 18:37:55,url
+2025-01-27 06:34:23,url
 📺央视频道,#genre#
 CCTV-1,http://60.208.61.2:352/tsfile/live/0001_1.m3u8$订阅源
 CCTV-1,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
@@ -538,7 +538,6 @@ CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 西藏卫视,http://113.25.252.226:9901/tsfile/live/1003_1.m3u8$订阅源
 西藏卫视,http://123.113.187.204:8000/udp/239.3.1.47:8164$订阅源
 西藏卫视,http://58.220.219.14:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-新疆卫视,http://106.124.91.222:9901/tsfile/live/21212_1.m3u8$订阅源
 新疆卫视,http://60.208.61.2:352/tsfile/live/0110_1.m3u8$订阅源
 新疆卫视,http://111.61.236.247:9081/hls/53/index.m3u8$订阅源
 新疆卫视,http://61.156.228.12:8154/tsfile/live/0110_1.m3u8$订阅源
@@ -548,6 +547,7 @@ CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 新疆卫视,http://61.156.228.12:8154/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 新疆卫视,http://61.138.128.226:19901/tsfile/live/0110_1.m3u8$订阅源
 新疆卫视,http://58.220.219.14:9901/tsfile/live/0120_6.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+新疆卫视,http://110.53.218.182:9902/tsfile/live/1008_1.m3u8$订阅源
 新疆卫视,http://139.129.231.228:50060/rtp/239.21.1.45:5002$组播源
 新疆卫视,http://139.129.231.228:3529/rtp/239.21.1.45:5002$组播源
 新疆卫视,http://123.56.129.203:4310/rtp/225.1.8.161:8160$组播源
@@ -633,10 +633,10 @@ CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源
 凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源|1920x1080
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源|1920x1080
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源|1920x1080
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源|1920x1080
@@ -664,6 +664,8 @@ J2,http://r.jdshipin.com/Nr5jq$订阅源
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8$订阅源
 CHC家庭影院,http://61.162.52.6:8088/newlive/live/hls/60/live.m3u8$订阅源
 淘电影,http://123.113.187.204:8000/udp/239.3.1.250:8001$订阅源
+NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8$订阅源
+NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8$订阅源
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 经典电影,http://123.113.187.204:8000/udp/239.3.1.195:9024$订阅源
 IPTV经典电影,http://123.56.129.203:8383/rtp/225.1.8.203:9024$北京电信组播源
@@ -742,8 +744,8 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 🪁动画频道,#genre#
 动漫秀场,http://139.196.151.191:6664/rtp/239.45.3.134:5140$组播源
 动漫秀场,http://139.196.151.191:3970/rtp/239.45.3.134:5140$组播源
-青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源
-宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源
+青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源|1920x1080
+宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源|1920x1080
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8$订阅源
 优漫卡通,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3$订阅源
@@ -775,16 +777,14 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 七龙珠,http://live.iill.top/huya.php?id=25650806$订阅源
 火影忍者,http://live.iill.top/douyu.php?id=1997723$订阅源
 火影忍者,https://live.iill.top/douyu/1997723$订阅源
-海绵宝宝,http://1.94.31.214:35455/huya/11352919$订阅源
 中华小当家,https://live.iill.top/huya/11342413$订阅源
 中华小当家,http://live.iill.top/huya.php?id=11342413$订阅源
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn$订阅源
 猫和老鼠,https://live.iill.top/huya/11352879$订阅源
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$订阅源
-蜡笔小新,http://1.94.31.214:35455/huya/11352970$订阅源
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy$订阅源|1920x1080
-电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源
+电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源|1920x1080
 🎵音乐频道,#genre#
 CCTV-15,http://113.25.252.226:9901/tsfile/live/0015_1.m3u8$订阅源
 CCTV-15,http://121.33.239.242:9901/tsfile/live/0015_1.m3u8$订阅源
@@ -804,4 +804,5 @@ CCTV-15,http://123.113.187.204:8000/rtp/239.3.1.153:8136$组播源
 音乐调频广播,http://120.55.49.231:4729/rtp/233.50.201.82:5140$浙江电信组播源
 🏛经典剧场,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
+仙剑奇侠传,http://jiaojirentv.top/2020/yy.php?id=1382749903$订阅源
 三国演义,http://live.metshop.top/huya/11602081$订阅源
