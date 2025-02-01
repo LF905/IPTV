@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-02-01 06:36:45,url
+2025-02-01 18:38:32,url
 📺央视频道,#genre#
 CCTV-1,http://113.57.93.165:9900/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8$订阅源
@@ -51,7 +51,6 @@ CCTV-5,http://121.33.239.242:9901/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8$订阅源
-CCTV-5,http://122.9.151.210:887/rtp/238.255.2.134:5999$组播源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5+,http://111.160.17.2:59901/tsfile/live/0001_6.m3u8$订阅源
 CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源|1920x1080
@@ -62,8 +61,6 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8$订阅源
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源|1920x1080
 CCTV-5+,http://111.160.17.2:59901/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-5+,http://122.9.151.210:9324/rtp/238.255.2.185:5999$组播源
-CCTV-5+,http://122.9.151.210:887/rtp/238.255.2.185:5999$组播源
 CCTV-6,http://61.138.128.226:19901/tsfile/live/0006_1.m3u8$订阅源
 CCTV-6,http://113.57.93.165:9900/tsfile/live/0006_1.m3u8$订阅源
 CCTV-6,http://58.19.43.46:9901/tsfile/live/1025_1.m3u8$订阅源
@@ -185,11 +182,8 @@ CCTV-17,http://111.160.17.2:59901/tsfile/live/0019_1.m3u8$订阅源
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000005000265015/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=no$订阅源
 CCTV-17,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000006000268004/index.m3u8?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=no$订阅源
 CETV1,http://123.56.129.203:5961/rtp/225.1.8.169:4120$北京电信组播源
-CETV1,http://122.9.151.210:6385/rtp/238.255.2.105:5999$贵州电信组播源
 CETV2,http://123.56.129.203:5961/rtp/225.1.8.193:4120$北京电信组播源
-CETV2,http://122.9.151.210:6385/rtp/238.255.2.221:5999$贵州电信组播源
 CETV4,http://123.56.129.203:5961/rtp/225.1.8.195:4120$北京电信组播源
-CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 💰央视付费频道,#genre#
 央视台球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_TAIQIU-CQ$订阅源
 风云足球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_FENGSHANGZQ-CQ$订阅源
@@ -228,7 +222,6 @@ CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 湖南卫视,http://61.138.128.226:19901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 湖南卫视,http://61.136.172.236:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 湖南卫视,http://58.19.43.46:9901/tsfile/live/1036_1.m3u8$订阅源
-湖南卫视,http://122.9.151.210:887/rtp/238.255.2.93:5999$组播源
 北京卫视,http://61.138.128.226:19901/tsfile/live/0122_1.m3u8$订阅源
 北京卫视,http://121.33.239.242:9901/tsfile/live/38725_1.m3u8$订阅源
 北京卫视,http://113.25.252.226:9901/tsfile/live/0122_1.m3u8$订阅源
@@ -289,7 +282,6 @@ CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 东方卫视,http://111.160.17.2:59901/tsfile/live/0001_42.m3u8$订阅源
 东方卫视,http://113.57.93.165:9900/tsfile/live/0107_1.m3u8$订阅源
 东方卫视,http://121.33.239.242:9901/tsfile/live/0107_1.m3u8$订阅源
-东方卫视,http://122.9.151.210:887/rtp/238.255.2.98:5999$组播源
 东南卫视,http://58.19.43.46:9901/tsfile/live/1046_1.m3u8$订阅源
 东南卫视,http://113.57.93.165:9900/tsfile/live/0137_1.m3u8$订阅源
 东南卫视,http://61.136.172.236:9901/tsfile/live/0137_1.m3u8$订阅源
@@ -488,7 +480,6 @@ CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=37795f2b1723270237$订阅源
 三沙卫视,https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=c96185071724988683$订阅源
 三沙卫视,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_SANSHA-HQ/G_SANSHA-HQ.m3u8$订阅源
-三沙卫视,http://122.9.151.210:887/rtp/238.255.2.203:5999$组播源
 天津卫视,http://61.136.172.236:9901/tsfile/live/0135_1.m3u8$订阅源
 天津卫视,http://61.156.228.12:8154/tsfile/live/0135_1.m3u8$订阅源
 天津卫视,http://115.149.139.141:10001/tsfile/live/1036_1.m3u8?blog.ntnas.top$订阅源
@@ -598,11 +589,10 @@ CETV4,http://122.9.151.210:6385/rtp/238.255.2.222:5999$贵州电信组播源
 凤凰香港,http://r.jdshipin.com/NfC0f$订阅源
 凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,http://php.17186.eu.org/phtv/fhhk.m3u8$订阅源
-凤凰卫视,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=phoenixtv_hd$订阅源
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源|1920x1080
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源|1920x1080
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源|1920x1080
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8$订阅源
+TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8$订阅源
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8$订阅源|1920x1080
 TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/playlist.m3u8$订阅源|1920x1080
 TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd$订阅源|1920x1080
@@ -634,6 +624,7 @@ NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/
 经典电影,http://58.19.43.46:9901/tsfile/live/1012_1.m3u8$订阅源
 IPTV经典电影,http://123.56.129.203:8383/rtp/225.1.8.203:9024$北京电信组播源
 IPTV经典电影,http://123.56.129.203:8109/rtp/225.1.8.203:9024$北京电信组播源
+无线星河,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8$订阅源
 星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie$订阅源
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$订阅源|1920x1080
@@ -652,7 +643,6 @@ CCTV-5,http://121.33.239.242:9901/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5,http://61.156.228.12:8154/tsfile/live/0005_1.m3u8$订阅源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5,http://61.136.172.236:9901/tsfile/live/0005_1.m3u8$订阅源
-CCTV-5,http://122.9.151.210:887/rtp/238.255.2.134:5999$组播源
 CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5+,http://111.160.17.2:59901/tsfile/live/0001_6.m3u8$订阅源
 CCTV-5+,https://api.olelive.com/dis/live/CCTV5PHD/hls.m3u8$订阅源|1920x1080
@@ -663,8 +653,6 @@ CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8$订阅源
 CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源|1920x1080
 CCTV-5+,http://111.160.17.2:59901/tsfile/live/0001_6.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-5+,http://61.138.128.226:19901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-5+,http://122.9.151.210:9324/rtp/238.255.2.185:5999$组播源
-CCTV-5+,http://122.9.151.210:887/rtp/238.255.2.185:5999$组播源
 广东体育,http://121.33.239.242:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 广东体育,http://r.jdshipin.com/LiYdg$订阅源
 广东体育,https://php.17186.eu.org/gdtv/gdty.m3u8$订阅源
@@ -688,10 +676,10 @@ CCTV-5+,http://122.9.151.210:887/rtp/238.255.2.185:5999$组播源
 山东体育,http://61.156.228.12:8154/tsfile/live/1006_1.m3u8$订阅源
 山东体育,http://139.129.231.228:50060/rtp/239.21.1.141:5002$组播源
 山东体育,http://139.129.231.228:3529/rtp/239.21.1.141:5002$组播源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源|1920x1080
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8$订阅源
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3/hls.m3u8?zanhd$订阅源
 安徽综艺体育,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829415240627.m3u8$订阅源
-安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源|1920x1080
+安徽综艺体育,http://112.30.194.221:20080/live/c41f112b83f644ddb082669501c8ecd3.flv$订阅源
 睛彩篮球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=HD-8000k-1080P-miguaoyun1$订阅源
 风云足球,http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_FENGSHANGZQ-CQ$订阅源
 足球频道,http://123.56.129.203:8383/rtp/225.1.8.249:4120$北京电信组播源
@@ -706,8 +694,8 @@ JJ斗地主,https://live.iill.top/douyu/488743$订阅源
 🪁动画频道,#genre#
 动漫秀场,http://139.196.151.191:6664/rtp/239.45.3.134:5140$组播源
 动漫秀场,http://139.196.151.191:3970/rtp/239.45.3.134:5140$组播源
-青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源|1920x1080
-宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源|1920x1080
+青春动漫,http://wouu.net:9977/udp/239.93.0.146:5140$订阅源
+宝宝动画,http://wouu.net:9977/udp/239.93.0.147:5140$订阅源
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 优漫卡通,http://110.53.218.182:9902/tsfile/live/1006_1.m3u8$订阅源
 优漫卡通,http://111.31.22.3/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000002000010063/1.m3u8?channel-id=ystenlive&Contentid=1000000002000010063&livemode=1&stbId=3$订阅源
@@ -728,7 +716,6 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 金鹰卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_JINYING/G_JINYING.m3u8$订阅源
 金鹰卡通,http://139.129.231.228:50060/rtp/239.21.1.48:5002$组播源
 金鹰卡通,http://139.129.231.228:3529/rtp/239.21.1.48:5002$组播源
-睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8$订阅源
 炫动卡通,http://36.156.94.111/cucc-livod.ks-cdn.gitv.tv/gitv_live/G_XUANDONG/G_XUANDONG.m3u8$订阅源
 浙江少儿,https://ct-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8$订阅源|1920x1080
 浙江少儿,http://120.55.49.231:7320/rtp/233.50.201.138:5140$组播源
@@ -749,7 +736,7 @@ CN卡通,http://125.227.210.55:8167/VideoInput/play.ts$订阅源|1920x1080
 蜡笔小新,http://1.94.31.214:35455/huya/11352970$订阅源
 🎮游戏频道,#genre#
 游戏风云,http://z.b.bkpcp.top/m.php?id=yxfy$订阅源|1920x1080
-电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源|1920x1080
+电竞天堂,http://wouu.net:9977/udp/239.93.1.135:5140$订阅源
 🎵音乐频道,#genre#
 CCTV-15,http://113.25.252.226:9901/tsfile/live/0015_1.m3u8$订阅源
 CCTV-15,http://121.33.239.242:9901/tsfile/live/0015_1.m3u8$订阅源
@@ -767,5 +754,3 @@ CCTV-15,http://61.138.128.226:19901/tsfile/live/0019_1.m3u8$订阅源
 音乐之声,https://fanmingming.com/fm?id=641$订阅源
 音乐调频广播,http://120.55.49.231:4729/rtp/233.50.201.82:5140$浙江电信组播源
 🏛经典剧场,#genre#
-笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/index.m3u8$订阅源
-三国演义,http://live.metshop.top/huya/11602081$订阅源
